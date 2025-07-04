@@ -110,8 +110,8 @@ lib/
 ## 👨‍💻 Author
 
 **Rudra Bharadwaj**  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-📦 Sharing code, ideas, and projects at [github.com/yourusername](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/rudra-bharadwaj-ba6117265/)  
+📦 Sharing code, ideas, and projects at [github.com/RudraBharadwaj08](https://github.com/RudraBharadwaj08)
 
 ---
 
