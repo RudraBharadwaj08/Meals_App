@@ -115,11 +115,5 @@ lib/
 
 ---
 
-## ❤️ Splash Screen
-
-<p align="center">
-  <img src="screenshots/splash.png" width="300"/><br>
-  <b>Made with ❤️ by Rudra Bharadwaj</b>
-</p>
 
 
